@@ -1,0 +1,106 @@
+[
+  {
+    "id": "C101",
+    "name": "Python Fundamentals",
+    "skills_taught": ["python", "programming basics"],
+    "prerequisites": [],
+    "level": "beginner",
+    "duration_weeks": 4
+  },
+  {
+    "id": "C102",
+    "name": "Data Structures & Algorithms",
+    "skills_taught": ["dsa", "problem solving"],
+    "prerequisites": ["C101"],
+    "level": "beginner",
+    "duration_weeks": 6
+  },
+  {
+    "id": "C103",
+    "name": "SQL & Relational Databases",
+    "skills_taught": ["sql", "databases"],
+    "prerequisites": [],
+    "level": "beginner",
+    "duration_weeks": 3
+  },
+  {
+    "id": "C201",
+    "name": "Statistics & Probability for Data Science",
+    "skills_taught": ["statistics", "probability"],
+    "prerequisites": [],
+    "level": "intermediate",
+    "duration_weeks": 5
+  },
+  {
+    "id": "C202",
+    "name": "Data Analysis with Pandas",
+    "skills_taught": ["pandas", "data analysis", "python"],
+    "prerequisites": ["C101"],
+    "level": "intermediate",
+    "duration_weeks": 4
+  },
+  {
+    "id": "C203",
+    "name": "Machine Learning Foundations",
+    "skills_taught": ["machine learning", "scikit-learn"],
+    "prerequisites": ["C101", "C201", "C202"],
+    "level": "intermediate",
+    "duration_weeks": 8
+  },
+  {
+    "id": "C204",
+    "name": "Web Development with JavaScript",
+    "skills_taught": ["javascript", "html", "css", "web development"],
+    "prerequisites": [],
+    "level": "beginner",
+    "duration_weeks": 6
+  },
+  {
+    "id": "C205",
+    "name": "React & Frontend Engineering",
+    "skills_taught": ["react", "frontend", "javascript"],
+    "prerequisites": ["C204"],
+    "level": "intermediate",
+    "duration_weeks": 6
+  },
+  {
+    "id": "C206",
+    "name": "Backend APIs with Node.js",
+    "skills_taught": ["node.js", "backend", "rest apis", "javascript"],
+    "prerequisites": ["C204"],
+    "level": "intermediate",
+    "duration_weeks": 6
+  },
+  {
+    "id": "C301",
+    "name": "Deep Learning with Neural Networks",
+    "skills_taught": ["deep learning", "neural networks", "pytorch"],
+    "prerequisites": ["C203"],
+    "level": "advanced",
+    "duration_weeks": 8
+  },
+  {
+    "id": "C302",
+    "name": "Natural Language Processing",
+    "skills_taught": ["nlp", "llm", "text processing"],
+    "prerequisites": ["C203"],
+    "level": "advanced",
+    "duration_weeks": 6
+  },
+  {
+    "id": "C303",
+    "name": "Cloud Deployment & MLOps",
+    "skills_taught": ["cloud", "docker", "mlops", "deployment"],
+    "prerequisites": ["C203"],
+    "level": "advanced",
+    "duration_weeks": 5
+  },
+  {
+    "id": "C304",
+    "name": "Full-Stack Capstone Project",
+    "skills_taught": ["full-stack", "project management"],
+    "prerequisites": ["C205", "C206"],
+    "level": "advanced",
+    "duration_weeks": 8
+  }
+]

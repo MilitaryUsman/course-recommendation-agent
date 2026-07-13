@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Aisha",
+    "background": "Final-year commerce student, comfortable with Excel, no coding experience",
+    "known_skills": [],
+    "goal": "Become a data analyst within 6 months"
+  },
+  {
+    "name": "Rahul",
+    "background": "Knows Python basics from a college course, has never built a real project",
+    "known_skills": ["python"],
+    "goal": "Get a job as a machine learning engineer"
+  },
+  {
+    "name": "Priya",
+    "background": "Self-taught HTML/CSS from building a personal blog, wants to go further into web dev",
+    "known_skills": ["html", "css"],
+    "goal": "Become a full-stack web developer"
+  },
+  {
+    "name": "Karan",
+    "background": "Has completed a machine learning foundations course at a previous bootcamp",
+    "known_skills": ["python", "statistics", "machine learning"],
+    "goal": "Specialize in NLP and deploy models to production"
+  }
+]
