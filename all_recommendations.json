@@ -1,0 +1,130 @@
+[
+  {
+    "student": "Aisha",
+    "goal": "Become a data analyst within 6 months",
+    "skill_gap_analysis": "Aisha lacks programming skills, data analysis knowledge, and experience with relevant tools and technologies, which are essential for a data analyst role. She has no prior coding experience, making it crucial to start with foundational courses. Her background in commerce suggests she may have some familiarity with data, but this needs to be developed into analytical skills.",
+    "recommended_path": [
+      {
+        "step": 1,
+        "course_id": "C101",
+        "course_name": "Python Fundamentals",
+        "reason": "Aisha needs to learn programming basics, and Python is a fundamental language for data analysis, making this course a necessary starting point."
+      },
+      {
+        "step": 2,
+        "course_id": "C202",
+        "course_name": "Data Analysis with Pandas",
+        "reason": "After learning Python, Aisha should focus on data analysis skills, which are directly relevant to her goal of becoming a data analyst. Pandas is a key library for data manipulation and analysis in Python."
+      },
+      {
+        "step": 3,
+        "course_id": "C201",
+        "course_name": "Statistics & Probability for Data Science",
+        "reason": "Understanding statistics and probability is crucial for a data analyst. This course will provide Aisha with the necessary knowledge to work with data effectively and make informed decisions."
+      }
+    ],
+    "estimated_total_weeks": 13
+  },
+  {
+    "student": "Rahul",
+    "goal": "Get a job as a machine learning engineer",
+    "skill_gap_analysis": "Rahul lacks knowledge in data structures, algorithms, statistics, probability, and machine learning, which are essential for a machine learning engineer role. He also needs to learn data analysis and other relevant skills to be proficient in the field.",
+    "recommended_path": [
+      {
+        "step": 1,
+        "course_id": "C101",
+        "course_name": "Python Fundamentals",
+        "reason": "Although Rahul knows Python basics, this course will help him solidify his foundation and prepare for more advanced courses."
+      },
+      {
+        "step": 2,
+        "course_id": "C102",
+        "course_name": "Data Structures & Algorithms",
+        "reason": "This course will teach Rahul data structures and algorithms, which are crucial for machine learning and data science."
+      },
+      {
+        "step": 3,
+        "course_id": "C201",
+        "course_name": "Statistics & Probability for Data Science",
+        "reason": "Statistics and probability are fundamental concepts in machine learning, and this course will help Rahul develop a strong understanding of these topics."
+      },
+      {
+        "step": 4,
+        "course_id": "C202",
+        "course_name": "Data Analysis with Pandas",
+        "reason": "Data analysis is a critical skill for machine learning engineers, and this course will teach Rahul how to work with Pandas and perform data analysis tasks."
+      },
+      {
+        "step": 5,
+        "course_id": "C203",
+        "course_name": "Machine Learning Foundations",
+        "reason": "This course will provide Rahul with a comprehensive introduction to machine learning, covering key concepts and techniques."
+      }
+    ],
+    "estimated_total_weeks": 27
+  },
+  {
+    "student": "Priya",
+    "goal": "Become a full-stack web developer",
+    "skill_gap_analysis": "Priya lacks knowledge in backend development, databases, and full-stack development, which are crucial for becoming a full-stack web developer. She also needs to learn JavaScript, which is a fundamental skill for web development. Additionally, she requires knowledge of React and Node.js to build robust frontend and backend applications.",
+    "recommended_path": [
+      {
+        "step": 1,
+        "course_id": "C204",
+        "course_name": "Web Development with JavaScript",
+        "reason": "Priya needs to learn JavaScript to build web applications, and this course provides a comprehensive introduction to web development with JavaScript."
+      },
+      {
+        "step": 2,
+        "course_id": "C205",
+        "course_name": "React & Frontend Engineering",
+        "reason": "To become a full-stack web developer, Priya needs to learn React, a popular frontend framework, and this course teaches React and frontend engineering."
+      },
+      {
+        "step": 3,
+        "course_id": "C206",
+        "course_name": "Backend APIs with Node.js",
+        "reason": "Priya needs to learn Node.js to build robust backend applications, and this course teaches backend APIs with Node.js, which is essential for full-stack development."
+      },
+      {
+        "step": 4,
+        "course_id": "C304",
+        "course_name": "Full-Stack Capstone Project",
+        "reason": "This capstone project course allows Priya to apply her knowledge of React, Node.js, and full-stack development to build a real-world project, solidifying her skills and preparing her for a career as a full-stack web developer."
+      }
+    ],
+    "estimated_total_weeks": 26
+  },
+  {
+    "student": "Karan",
+    "goal": "Specialize in NLP and deploy models to production",
+    "skill_gap_analysis": "Karan is missing skills in Natural Language Processing (NLP) and cloud deployment, which are crucial for his goal. He also lacks knowledge in deep learning, which is a fundamental concept in NLP. Additionally, he needs to learn about cloud deployment and MLOps to deploy models to production.",
+    "recommended_path": [
+      {
+        "step": 1,
+        "course_id": "C203",
+        "course_name": "Machine Learning Foundations",
+        "reason": "Although Karan has a background in machine learning, the course C203 is a prerequisite for other advanced courses and will help him review and solidify his existing knowledge."
+      },
+      {
+        "step": 2,
+        "course_id": "C301",
+        "course_name": "Deep Learning with Neural Networks",
+        "reason": "Deep learning is a fundamental concept in NLP, and this course will provide Karan with the necessary skills to specialize in NLP."
+      },
+      {
+        "step": 3,
+        "course_id": "C302",
+        "course_name": "Natural Language Processing",
+        "reason": "This course directly addresses Karan's goal of specializing in NLP and will provide him with the necessary skills to work with text data."
+      },
+      {
+        "step": 4,
+        "course_id": "C303",
+        "course_name": "Cloud Deployment & MLOps",
+        "reason": "This course will provide Karan with the necessary skills to deploy models to production, which is a crucial part of his goal."
+      }
+    ],
+    "estimated_total_weeks": 27
+  }
+]
